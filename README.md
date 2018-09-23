@@ -1,2 +1,2 @@
 # SubmarinShooter
-simple submarine shooter
+simple submarine shooter.
